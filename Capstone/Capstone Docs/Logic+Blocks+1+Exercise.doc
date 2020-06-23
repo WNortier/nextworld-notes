@@ -1,0 +1,333 @@
+Date: Mon, 27 Apr 2020 04:04:03 +0000 (UTC)
+Message-ID: <347901981.231.1587960243609@cd28b23dd41f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_230_680661516.1587960243609"
+
+------=_Part_230_680661516.1587960243609
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Logic Blocks 1 Exercise</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Logic Blocks 1 Exercise</h1>
+    <div class=3D"Section1">
+        <p><strong>Objective:</strong></p>
+<ul>
+<li><p>Create an Action Block for the Products table</p></li>
+</ul>
+<p><strong>Context:&nbsp;</strong>For tables that are highly transactional =
+or will have transactions created from several sources (internal and extern=
+al) it can make sense to create an Action Block. By creating one, the LB ca=
+n be called by other logic blocks. If an Action Block is not created, the s=
+ources will insert or update directly and validations occur at the trigger =
+level.</p>
+<p>In this exercise, we are assuming that products are created from many di=
+fferent sources. You could have an external product or another product modu=
+le that handles R&amp;D type activities that lead to products being created=
+. The logic block is simple, but if the Products application expanded, the =
+action block would be more involved and potentially modify values that are =
+passed in before doing an update. As this is a simpler implementation, the =
+LB updates with whatever values are passed in.</p>
+<div class=3D"table-wrap">
+<table data-layout=3D"full-width" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 442.0px;">
+<col style=3D"width: 1196.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Step</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Create the Logic Block</p></td>
+<td class=3D"confluenceTd"><p>Name: WriteProducts</p><p>Table: Your Product=
+s table</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Write the Logic</p></td>
+<td class=3D"confluenceTd"><p>We will break the logic into two parts: inser=
+t, update</p><p>Insert:</p>
+<ul>
+<li><p>If the Logic Block Mode =3D Create, do the following actions</p></li=
+>
+<li><p>Insert the values into the table</p></li>
+</ul><p>Update:</p>
+<ul>
+<li><p>If the Logic Block Mode =3D Edit, do the following actions</p></li>
+<li><p>Values are passed in to update a product. If the <code>nwId</code> i=
+s missing, set an error - use the <code>nsTrnMASTERMsg5</code> Data Item.</=
+p></li>
+<li><p>Update the fetched record</p></li>
+</ul><p>Notes:</p>
+<ul>
+<li><p>While an Action Block is responsible for the insert, update, and del=
+ete, the platform still validates the table pieces including required field=
+s, filtered table lookups, and indexes. </p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>:warning:<em><span style=3D"color: rgb(255,19=
+6,0);">Checkpoint</span></em></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Make sure the LB is saved.</p></li>
+<li><p>You check if the Logic Block Mode =3D Create. If so, you are inserti=
+ng into the products table.</p></li>
+<li><p>You check if the Logic Block Mode =3D Edit. If so, you are validatin=
+g that a parameter is passed in and then updating the record. </p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Attaching to the table</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Go to your products table definition. </p></li>
+<li><p>In the General Configuration tab, add two rows to the Action Blocks =
+subtable</p>
+<ul>
+<li><p>Insert</p></li>
+<li><p>Update</p></li>
+</ul></li>
+</ul><p>Do not add a value for the Delete action. We will let the platform =
+to handle deletes.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>:warning:<em><span style=3D"color: rgb(255,19=
+6,0);">Checkpoint</span></em></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>You are able to insert a record</p></li>
+<li><p>You are able to update a record</p></li>
+<li><p>You receive the proper errors based on the validations</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_230_680661516.1587960243609--
